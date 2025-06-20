@@ -27,3 +27,8 @@ Preview the production build locally:
 ```bash
 pnpm preview
 ```
+
+## Preview
+
+![Preview](./image.png)
+
